@@ -1,6 +1,6 @@
-/biome.json
-/docker-compose.yml
-/node_modules
-/pnpm-lock.yaml
-/src
-/tsconfig.json
+node_modules
+build
+coverage
+.env
+
+prisma/migrations/
